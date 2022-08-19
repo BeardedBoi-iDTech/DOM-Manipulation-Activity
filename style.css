@@ -1,0 +1,15 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+#mainDiv {
+  margin: 20px;
+  border: 10px solid blue;
+  min-width: 200px;
+  min-height: 200px;
+  width: 200px;
+  height: 200px;
+  padding: 5% 30%;
+  font-size: large;
+  font-weight: bolder;
+}
